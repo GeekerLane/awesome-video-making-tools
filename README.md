@@ -5,11 +5,11 @@ Hi everyone, Here I hope we can share our experience with each other like which 
 
 I will also introduce a few tools here that everyone will care about:
 
-PowerPoint design tools: such as Prezi, Canva
+PowerPoint design tools: such as Prezi, [Canva](TODO)
 
 text to speech software: e.g. Lovo, azure, speechlo
 
-Lip-syncing digital teacher generator: e.g. Movio, synthesia
+Lip-syncing digital teacher generator: e.g. [Movio](https://www.movio.la/online-training?toGuest=true&sid=lgh), synthesia
 
 Animation design tools: such as Vyond, powtoon, doratoon, biteable, Renderforest
 
@@ -29,11 +29,11 @@ LMS systems: udemy, etc.
 
 ### Video Making
 
-- [Movio.la](https://www.movio.la)
+- [Movio.la](https://www.movio.la/online-training?toGuest=true&sid=lgh)
 - [Veed.io](https://veed.io)
 
 ### Talking Avatar
-- [Movio.la](http://www.movio.la)
+- [Movio.la](https://www.movio.la/online-training?toGuest=true&sid=lgh)
 - [Synthesia]()
 
 **[⬆ back to top](#contents)**
