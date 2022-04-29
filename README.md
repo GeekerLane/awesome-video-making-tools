@@ -29,8 +29,8 @@ LMS systems: udemy, etc.
 
 ### Video Making
 
-- [Movio.la](www.movio.la)
-- [Veed.io](veed.io)
+- [Movio.la](https://www.movio.la)
+- [Veed.io](https://veed.io)
 
 ### Talking Avatar
 - [Movio.la](www.movio.la)
