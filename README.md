@@ -33,7 +33,7 @@ LMS systems: udemy, etc.
 - [Veed.io](https://veed.io)
 
 ### Talking Avatar
-- [Movio.la](www.movio.la)
+- [Movio.la](http://www.movio.la)
 - [Synthesia]()
 
 **[⬆ back to top](#contents)**
